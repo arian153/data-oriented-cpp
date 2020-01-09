@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+*.vcxproj
+Build/C++DOD.vcxproj.user
+Build/DataOrientedC++.sln
