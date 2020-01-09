@@ -33,3 +33,6 @@
 *.vcxproj
 Build/C++DOD.vcxproj.user
 Build/DataOrientedC++.sln
+Bin/
+Build/.vs/
+Build/Obj/
